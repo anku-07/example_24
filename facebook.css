@@ -1,0 +1,13 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #0766ff;
+}
+#srh{
+    color: white;
+    background-color: black;
+}
+.btn{
+    background-color: aqua;
+}
